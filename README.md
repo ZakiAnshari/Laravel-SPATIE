@@ -4,4 +4,11 @@
 
 ## About Spatie  
 adalah kita bisa mencegah orang untuk mengakses routes tertentu 
+-> Install spatie permission
+-> Membuat data user ,roles & permission 
+-> Give permission to role
+-> Assign role to user
+-> Roles permission
+-> Default middleware
+-> Package middleware
 
