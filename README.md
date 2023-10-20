@@ -1,4 +1,4 @@
-![alt text](https://github.com/ZakiAnshari/Laravel-SPATIE/blob/main/public/1.php?raw=true)
+![alt text](https://github.com/ZakiAnshari/Laravel-SPATIE/blob/main/public/1.png?raw=true)
 ![alt text](https://github.com/ZakiAnshari/Laravel-SPATIE/blob/main/public/2.png?raw=true)
 
 
